@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+    background: linear-gradient(aquamarine 25%, limegreen 75%);
+    font-family: Special Elite, cursive;
+}
+ 
+h2 {
+    font-size: 60px;
+    font-family: Futura;
+    color: #fa243f;
+}
+
+.copy_right_footer {
+    position: fixed;
+    background-color: white;
+    color: darkblue;
+    font-family: zapfino;
+    line-height: 3;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    font-size: 15px;
+    text-shadow: 2.5px 2.5px 2.5px grey;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+button {
+    background-color: deeppink;
+    color: khaki;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-width: 2.5px;
+    border-color: darkolivegreen;
+    border-style: solid;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 15px;
+    font-weight: bolder;
+    font-family: Rockwell;
+    margin-top: 15px;
+}
+
+h3 {
+    font-family: copperplate;
+}
+
+p {
+    color: brown;
+    font-family: Herculanum;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.header_div {
+    background: lightgoldenrodyellow;
+    
+}
+
